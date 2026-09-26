@@ -105,9 +105,7 @@ Desenvolvimento de scripts e recursos para servidores FiveM.
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiEspecoto&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiEspecoto&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
+Meus projetos e estudos estão disponíveis neste perfil
 
 ---
 
